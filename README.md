@@ -1,19 +1,21 @@
 # DSA With Java
->To Complie Java File
+> ###To Complie Java File:- 
 **javac** FileName.java
-> To Run Java File
+
+> ###To Run Java File:- 
 **java** FileName
-> Flags
+
+> ###Flags:- 
 **-d** to define the path where bycode(.class) file store
 **-cp** to access the path where bycode(.class) file store
 
-> Structure of Program
+> ###Structure of Program:- 
 ***public*** -> This is used to tell compiler this class is accessible any where
 ***main*** -> This is the Entry Point From Where Java Program run
 ***static*** -> When Creating a method/variable with static Keyword means we do not need to create a Object of it & Run the Program.
 ***void*** -> When Using this the method is not returning any value
 ***String[]*** -> It is Collection of elements Array
-***Input*** -> To take input we have to import Scanner Class ~~import java.util.Scanner;~~
+***Input*** -> To take input we have to import Scanner Class <ins>import java.util.Scanner;</ins>
 
-> Data Type
+> ###Data Type:- 
 
