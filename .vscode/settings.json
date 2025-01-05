@@ -1,0 +1,18 @@
+{
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": [
+    "01_Java_Basics",
+    "02_Conditions_Loops",
+    "03_Switch_Break",
+    "Problems"
+  ],
+  "java.project.referencedLibraries": [
+    "c:\\Tahir\\TP\\Learning\\DSA\\lib\\junit-4.13.2.jar",
+    "c:\\Tahir\\TP\\Learning\\DSA\\lib\\hamcrest-core-1.3.jar"
+  ],
+  "java.format.settings.url": ".vscode/java-formatter.xml",
+  "[java]": {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 2
+  }
+}
