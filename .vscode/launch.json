@@ -6,9 +6,113 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Switch",
+      "name": "Armstrong",
       "request": "launch",
-      "mainClass": "Java.Switch_Break_03.Switch",
+      "mainClass": "Armstrong",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Questions",
+      "request": "launch",
+      "mainClass": "Questions",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Overloading",
+      "request": "launch",
+      "mainClass": "Overloading",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "VarArgs",
+      "request": "launch",
+      "mainClass": "VarArgs",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Shadowing",
+      "request": "launch",
+      "mainClass": "Shadowing",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Scopes",
+      "request": "launch",
+      "mainClass": "Scopes",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "ChangeValue",
+      "request": "launch",
+      "mainClass": "ChangeValue",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Swap",
+      "request": "launch",
+      "mainClass": "Swap",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Cal",
+      "request": "launch",
+      "mainClass": "Cal",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "CaseCheck",
+      "request": "launch",
+      "mainClass": "CaseCheck",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Condition",
+      "request": "launch",
+      "mainClass": "Condition",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "CountOccurs",
+      "request": "launch",
+      "mainClass": "CountOccurs",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "GreatestNum",
+      "request": "launch",
+      "mainClass": "GreatestNum",
       "projectName": "DSA_6e76b611"
     },
     {
@@ -20,15 +124,65 @@
     },
     {
       "type": "java",
-      "name": "Current File",
+      "name": "Nested_Switch",
       "request": "launch",
-      "mainClass": "${file}"
+      "mainClass": "Nested_Switch",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "DSA_6e76b611"
     },
     {
       "type": "java",
       "name": "Sturcture",
       "request": "launch",
       "mainClass": "Sturcture",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Sum",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "SwitchCal",
+      "request": "launch",
+      "mainClass": "SwitchCal",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Temperature",
+      "request": "launch",
+      "mainClass": "Temperature",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "TypeCasting",
+      "request": "launch",
+      "mainClass": "TypeCasting",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Week",
+      "request": "launch",
+      "mainClass": "Week",
       "projectName": "DSA_6e76b611"
     }
   ]
