@@ -25,3 +25,6 @@ All the Decimal types values are of Doubles so When we define Float value so we 
 ## Literals are Syntactical representation of (int, char, float, double)
 
 > [Reverse the Numbers](https://github.com/TahirShaikh786/DSA/blob/main/Image/Reverse.png)
+
+> Arrays
+![Memory Allocation](image.png)

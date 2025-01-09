@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Arra",
+      "request": "launch",
+      "mainClass": "Arrays.Arra",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
       "name": "Armstrong",
       "request": "launch",
       "mainClass": "Armstrong",
