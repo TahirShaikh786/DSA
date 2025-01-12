@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PassingtoFunction",
+      "request": "launch",
+      "mainClass": "Arrays.PassingtoFunction",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "ArrayIP",
+      "request": "launch",
+      "mainClass": "Arrays.ArrayIP",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "DefineArr",
+      "request": "launch",
+      "mainClass": "Arrays.DefineArr",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
       "name": "Arra",
       "request": "launch",
       "mainClass": "Arrays.Arra",

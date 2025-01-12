@@ -33,5 +33,8 @@ public class Arra {
 
     String[] arr = new String[4];
     System.out.println(arr[0]);
+
+    // Strings are Immutable in java
+    // Arrays are mutable in java
   }
 }
