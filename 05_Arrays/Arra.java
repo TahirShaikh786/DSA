@@ -1,5 +1,3 @@
-package Arrays;
-
 public class Arra {
   public static void main(String[] args) {
     // Q. Store a Roll No.

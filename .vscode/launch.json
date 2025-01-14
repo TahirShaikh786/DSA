@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArraysQ",
+      "request": "launch",
+      "mainClass": "ArraysQ",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "SwapInArray",
+      "request": "launch",
+      "mainClass": "SwapInArray",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "MultiArrayList",
+      "request": "launch",
+      "mainClass": "MultiArrayList",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "ArrayLits",
+      "request": "launch",
+      "mainClass": "ArrayLits",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "MultiDimension",
+      "request": "launch",
+      "mainClass": "MultiDimension",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
       "name": "PassingtoFunction",
       "request": "launch",
       "mainClass": "Arrays.PassingtoFunction",
