@@ -31,3 +31,6 @@ All the Decimal types values are of Doubles so When we define Float value so we 
 > [Memory Allocation of Multidimension Array](./Image/MultiDimansion.png)
 
 > [Internally working of ArrayList](./Image/ArrayList.png)
+
+# Now Dsa Start here:-  
+> Basically in Linear Search it Start from First index and move ahead to check the give ip is available on array or not.  [Basic Example of Linear Search](./Image/Basic%20Example%20of%20Linear%20Search.png)
