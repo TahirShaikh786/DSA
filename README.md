@@ -33,4 +33,4 @@ All the Decimal types values are of Doubles so When we define Float value so we 
 > [Internally working of ArrayList](./Image/ArrayList.png)
 
 # Now Dsa Start here:-  
-> Basically in Linear Search it Start from First index and move ahead to check the give ip is available on array or not. [Basic Example of Linear Search](./Image/Basic%20Example%20of%20Linear%20Search.png)<br />[Time Complexity Best case](./Image/Time_Best_Case.png)<br />[Time Complexity Worst case](./Image/Time_Worst_Case.png)
+> Basically in Linear Search it Start from First index and move ahead to check the give ip is available on array or not. <br />[Basic Example of Linear Search](./Image/Basic%20Example%20of%20Linear%20Search.png)<br />[Time Complexity Best case](./Image/Time_Best_Case.png)<br />[Time Complexity Worst case](./Image/Time_Worst_Case.png)
