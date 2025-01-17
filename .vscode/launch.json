@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Question_05_Even_Digits",
+      "request": "launch",
+      "mainClass": "Question_05_Even_Digits",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Question_04_2D",
+      "request": "launch",
+      "mainClass": "Question_04_2D",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Question_03_Min_Max",
+      "request": "launch",
+      "mainClass": "Question_03_Min_Max",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Question_03_Minimum",
+      "request": "launch",
+      "mainClass": "Question_03_Minimum",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Question_02_Range",
+      "request": "launch",
+      "mainClass": "Question_02_Range",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
       "name": "Question_01_String",
       "request": "launch",
       "mainClass": "Question_01_String",
