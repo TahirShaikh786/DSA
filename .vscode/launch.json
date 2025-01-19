@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Question_01_Ceiling",
+      "request": "launch",
+      "mainClass": "Question_01_Ceiling",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
       "name": "OrderAgnostics",
       "request": "launch",
       "mainClass": "OrderAgnostics",

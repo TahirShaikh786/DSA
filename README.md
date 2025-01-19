@@ -32,11 +32,15 @@ All the Decimal types values are of Doubles so When we define Float value so we 
 
 > [Internally working of ArrayList](./Image/ArrayList.png)
 
-# Seaching Algorithm:-  
-> Basically in Linear Search it Start from First index and move ahead to check the give ip is available on array or not. <br />[Basic Example of Linear Search](./Image/Basic%20Example%20of%20Linear%20Search.png)<br />[Time Complexity Best case](./Image/Time_Best_Case.png)<br />[Time Complexity Worst case](./Image/Time_Worst_Case.png)<br/> 
+# Seaching Algorithm:- 
+## 1. Linear Search 
+> Basically in LS it Start from First index and move ahead to check the give ip is available on array or not. <br />[Basic Example of LS](./Image/Basic%20Example%20of%20Linear%20Search.png)<br />[Time Complexity Best case](./Image/Time_Best_Case.png)<br />[Time Complexity Worst case](./Image/Time_Worst_Case.png)<br/> 
 ### Questions Explanation for LS
 1. [Question_Linear_Search_Even_Digits](./Image/Linear_search_Even_Digits.png)
 
-> Binary Search:- It is Optimised way to Search for elements in a sorted array<br />[BinarySearch Basic Example](./Image/BinarySearchBasic.png)<br />[Best Case for BS](./Image/BS_Best_Case.png)<br />[Worst Case for BS](./Image/BS_Worst_Case.png)<br />
+## 2. Binary Search
+> It is Optimised way to Search for elements in a sorted array<br />[BinarySearch Basic Example](./Image/BinarySearchBasic.png)<br />[Best Case for BS](./Image/BS_Best_Case.png)<br />[Worst Case for BS](./Image/BS_Worst_Case.png)<br />
 > When do we Apply Binary Search<br />1. When we have a sorted array(Ascending or Descending)<br />2. When we have 2 find out square root within the array.
 ### Questions Explanation for BS
+1. [Ceiling of a number](./Image/CeilingOFNumber_BS.png),  [Working of Ceiling Number](./Image/Working%20of%20Ceiling.png)
+2. [Floor of a Number](./Image/Floor_BS.png)
