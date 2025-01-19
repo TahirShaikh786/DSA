@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OrderAgnostics",
+      "request": "launch",
+      "mainClass": "OrderAgnostics",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
       "name": "Question_05_Even_Digits",
       "request": "launch",
       "mainClass": "Question_05_Even_Digits",

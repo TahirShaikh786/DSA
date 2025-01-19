@@ -2,11 +2,12 @@
   "java.project.sourcePaths": [
     "Problems",
     "Arrays",
+    "06_Linear_Search",
     "05_Arrays",
     "04_Functions",
     "03_Switch_Break",
     "02_Conditions_Loops",
     "01_Java_Basics",
-    "06_Linear_Search"
+    "07_Binary_Search"
   ]
 }
