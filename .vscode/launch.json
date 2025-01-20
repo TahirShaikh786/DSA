@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Question_03_SmallestLetter",
+      "request": "launch",
+      "mainClass": "Question_03_SmallestLetter",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
+      "name": "Question_05_Position_on_infinite",
+      "request": "launch",
+      "mainClass": "Question_05_Position_on_infinite",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
       "name": "Question_02_Floor",
       "request": "launch",
       "mainClass": "Question_02_Floor",

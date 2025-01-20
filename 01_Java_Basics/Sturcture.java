@@ -35,6 +35,7 @@ public class Sturcture{
     String name1 = input.next();;
     System.out.println(name1);
 
+    input.close();
     // Output
     System.out.println("Hello World");
   }
