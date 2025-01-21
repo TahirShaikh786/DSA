@@ -44,3 +44,4 @@ All the Decimal types values are of Doubles so When we define Float value so we 
 ### Questions Explanation for BS
 1. [Ceiling of a number](./Image/CeilingOFNumber_BS.png),  [Working of Ceiling Number](./Image/Working%20of%20Ceiling.png)
 2. [Floor of a Number](./Image/Floor_BS.png)
+4. [Working of Find First ans Last Occurence of Number](./Image/BS_FindFirstLastOccurrence.png)
