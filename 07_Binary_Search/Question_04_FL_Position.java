@@ -13,10 +13,10 @@ public class Question_04_FL_Position {
     int[] ans = { -1, -1 };
 
     // Check for First Occurence if target found
-    int start = searchOccur(nums, target, true);
-    int end = searchOccur(nums, target, false);
-    ans[0] = start;
-    ans[1] = end;
+    ans[0] = searchOccur(nums, target, true);
+    if(ans[0] != -1){
+      ans[1] = searchOccur(nums, target, false);
+    }
 
     return ans;
   }
