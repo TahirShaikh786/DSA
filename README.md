@@ -39,9 +39,10 @@ All the Decimal types values are of Doubles so When we define Float value so we 
 1. [Question_Linear_Search_Even_Digits](./Image/Linear_search_Even_Digits.png)
 
 ## 2. Binary Search
-> It is Optimised way to Search for elements in a sorted array<br />[BinarySearch Basic Example](./Image/BinarySearchBasic.png)<br />[Best Case for BS](./Image/BS_Best_Case.png)<br />[Worst Case for BS](./Image/BS_Worst_Case.png)<br />
+> Always use this Search when the array if Sorted <br /> It is Optimised way to Search for elements in a sorted array<br />[BinarySearch Basic Example](./Image/BinarySearchBasic.png)<br />[Best Case for BS](./Image/BS_Best_Case.png)<br />[Worst Case for BS](./Image/BS_Worst_Case.png)<br />
 > When do we Apply Binary Search<br />1. When we have a sorted array(Ascending or Descending)<br />2. When we have 2 find out square root within the array.
 ### Questions Explanation for BS
 1. [Ceiling of a number](./Image/CeilingOFNumber_BS.png),  [Working of Ceiling Number](./Image/Working%20of%20Ceiling.png)
 2. [Floor of a Number](./Image/Floor_BS.png)
 4. [Working of Find First ans Last Occurence of Number](./Image/BS_FindFirstLastOccurrence.png)
+5. [Working of Find Element in infinite arr](./Image/Find%20Element%20in%20infinite%20arr.png)
