@@ -47,3 +47,4 @@ All the Decimal types values are of Doubles so When we define Float value so we 
 4. [Working of Find First ans Last Occurence of Number](./Image/BS_FindFirstLastOccurrence.png)
 5. [Working of Find Element in infinite arr](./Image/Find%20Element%20in%20infinite%20arr.png)
 6. [Find Peak in Mountain array](./DSA_Notes/Q6.%20Find%20Peak%20in%20Mountain%20Array.pdf)
+7. 
