@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Question_07_Find_Mountain_array",
+      "request": "launch",
+      "mainClass": "Question_07_Find_Mountain_array",
+      "projectName": "DSA_6e76b611"
+    },
+    {
+      "type": "java",
       "name": "Question_06_Mountain_Array",
       "request": "launch",
       "mainClass": "Question_06_Mountain_Array",
