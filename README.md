@@ -48,3 +48,4 @@ All the Decimal types values are of Doubles so When we define Float value so we 
 5. [Working of Find Element in infinite arr](./Image/Find%20Element%20in%20infinite%20arr.png)
 6. [Find Peak in Mountain array](./DSA_Notes/Q6.%20Find%20Peak%20in%20Mountain%20Array.pdf)
 7. [Search in Mountain Array](./DSA_Notes/Q.6%20Search%20in%20Mountain%20Array%20Hard.pdf)
+8. [Search in Rotated Array](./DSA_Notes)
